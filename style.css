@@ -1,0 +1,40 @@
+body {
+  background-color: #080808;
+
+font-family: sans-serif;
+}
+
+h1 {
+  text-align: center;
+  color: #125486;
+}
+
+h2 {
+  text-align: center;
+  color: grey;
+  font-style: italic;
+  margin-top: 50px;
+}
+
+p {
+  text-align: center;
+  color: #125486;
+  font-size: 50px;
+  font-style: italic;
+  font-weight: bold;
+  margin-top: 10px;
+}
+.undertekst {
+  text-align: center;
+  color: grey;
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+a {
+  color: grey;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
